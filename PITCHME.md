@@ -12,7 +12,7 @@ MarkDown语法简单，记忆负担小，纯文本，流畅书写，无违和感
 ---
 ## Designed for U？
 
-手速超群的**小码农**在写文档的时，有没有想过用键盘把文字内容啪啪啪地打出来就已经排版好了？对，`markdown`是为对码字手速和排版顺畅度有要求的人群设计的。
+手速超群的**小码农**在写文档或者代码时有没有想过---文字内容啪啪啪地打出来后---文档排版好了？对，`markdown`就是为对码字手速和排版顺畅度有要求的人群而设计。
 
 ---
 ## *Coding*
@@ -30,6 +30,12 @@ public class HelloMarkDown
           System.out.println("Hello MarkDown！");
           System.out.println("Hello MarkDown！");
           System.out.println("Hello MarkDown！");
+          System.out.println("Hello MarkDown！");
+          System.out.println("Hello MarkDown！");
+          System.out.println("Hello MarkDown！");
+          System.out.println("Hello MarkDown！");
+          System.out.println("Hello MarkDown！");
+          ...
       }
 }
 ```
@@ -60,16 +66,17 @@ code: [传送门也是很酷吧](https://gitpitch.com/qhzxc0015/share/master)
 
 ## 表格
 
-
+简单好看的**表格**样式：
 | Item     | Value | Use     |
 | -------- | ----- | ------- |
 | Computer | $1600 | Play    |
 | Phone    | $12   | LiaoMei |
-| food     | $1    | Live    |
+| Food     | ￥1    | Live    |
 
 ---
 >  **STOP**
 
 - 啊咧，没有了？
 - 嗯，没有了，就是这么简单。
-- 哦，对了，这个`GItPitch`页面就是用md做的 (。・∀・)ノ゛
+- 哦，对了，这个`GItPitch`页面就是用md做的 。
+- Designed by zxc  (。・∀・)ノ゛
