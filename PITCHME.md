@@ -3,28 +3,37 @@
 ---
 >  **优点**
 
-    MarkDown语法简单，记忆负担小，纯文本，流畅书写，无违和感，各种**实时**渲染效果干净流畅，让你用上就会爱不释手。
+MarkDown语法简单，记忆负担小，纯文本，流畅书写，无违和感，各种**实时**渲染效果干净流畅，让你用上就会爱不释手。
+
 ---
-# What‘s *MarkDown*？
+##  *MarkDown*？
 ![](http://ou9i51fe5.bkt.clouddn.com/markdown.jpg)
 
 ---
-## Designed for *？
+## Designed for U？
 
-`markdown`是为那些需要经常码东西并且进行文字排版的、对码字手速和排版顺畅度有要求的人群设计的，他们希望用键盘把文字内容啪啪啪地打出来后就已经排版好了，最好从头到尾都不要使用鼠标。这些人包括经常需要写文档的**码农**、博客写手、网站小编、出版业人士等等。
+手速超群的**小码农**在写文档的时，有没有想过用键盘把文字内容啪啪啪地打出来就已经排版好了？对，`markdown`是为对码字手速和排版顺畅度有要求的人群设计的。
 
 ---
-## coding
+## *Coding*
 
+那么怎么码代码的格式呢？
 ```java
 public class HelloMarkDown
 {
       public staticvoid main(String args[])
       {
+          //格式是不是很清新
+          System.out.println("Hello MarkDown！");
+          System.out.println("Hello MarkDown！");
+          System.out.println("Hello MarkDown！");
+          System.out.println("Hello MarkDown！");
+          System.out.println("Hello MarkDown！");
           System.out.println("Hello MarkDown！");
       }
 }
 ```
+
 ---
 ## Often
 
@@ -33,7 +42,7 @@ public class HelloMarkDown
 ---
 ## Attention!!
 
-实时的渲染: 无论新手老手写 Markdown 的时候最担心的是不知道自己写的对不对，最后渲染效果是不是准确无误。就好象写完代码你一定要自己测试一下才放心()，写 Markdown 就是在写代码，实时的渲染效果就是在做测试，这就是为什么网络上有那么多左右两屏带实时渲染的 Markdown 工具的原因(~~大概是屏幕太宽了空太多不好看~~)
+写 Markdown 就像在写代码，实时的渲染效果就是在做测试，输入完就出效果比什么不放心~~(上瘾)~~。
 
 ---
 
@@ -59,6 +68,8 @@ code: [传送门也是很酷吧](https://gitpitch.com/qhzxc0015/share/master)
 | food     | $1    | Live    |
 
 ---
+>  **STOP**
 
-- 嗯，没有了
+- 啊咧，没有了？
+- 嗯，没有了，就是这么简单。
 - 哦，对了，这个`GItPitch`页面就是用md做的 (。・∀・)ノ゛
