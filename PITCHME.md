@@ -67,11 +67,12 @@ code: [传送门也是很酷吧](https://gitpitch.com/qhzxc0015/share/master)
 ## 表格
 
 简单好看的**表格**样式：
+
 | Item     | Value | Use     |
 | -------- | ----- | ------- |
 | Computer | $1600 | Play    |
 | Phone    | $12   | LiaoMei |
-| Food     | $1    | Live    |
+| Food     | ￥1    | Live    |
 
 ---
 >  **STOP**
