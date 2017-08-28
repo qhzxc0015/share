@@ -71,7 +71,7 @@ code: [传送门也是很酷吧](https://gitpitch.com/qhzxc0015/share/master)
 | -------- | ----- | ------- |
 | Computer | $1600 | Play    |
 | Phone    | $12   | LiaoMei |
-| Food     | ￥1    | Live    |
+| Food     | $1    | Live    |
 
 ---
 >  **STOP**
